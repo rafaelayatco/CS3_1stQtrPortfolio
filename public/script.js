@@ -1,7 +1,7 @@
 
-let age = window.prompt("Enter your age  ", "14");
-let maxAge = window.prompt("Enter your maxAge  ", "100");
-let  numPerDay = window.prompt("Enter your numPerDay  ", "5");
+// let age = window.prompt("Enter your age  ", "14");
+// let maxAge = window.prompt("Enter your maxAge  ", "100");
+// let  numPerDay = window.prompt("Enter your numPerDay  ", "5");
 
 if (confirm(`Is the ${age},${maxAge},${numPerDay} really correct?`)) {
 
