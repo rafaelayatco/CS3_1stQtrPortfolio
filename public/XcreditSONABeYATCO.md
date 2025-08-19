@@ -20,7 +20,7 @@ In the SONA as well, I found some things to be weird or unclarified for me.
   - The **impeachment case against the Vice President**,
   - The **ICC investigation** against former President Duterte, and
   - The **West Philippine Sea dispute**.
-- Lastly, despite promoting **renewable energy** via his proposed programs, the President **did not address environmental issues**, which felt disappointing considering climate disasters affect our nation. 
+- Lastly, despite promoting **renewable energy** via his proposed programs, the President **did not address environmental issues**, which was disappointing considering climate disasters affect our nation. 
 
 ## Reflection
 
