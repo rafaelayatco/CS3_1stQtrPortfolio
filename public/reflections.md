@@ -21,7 +21,7 @@
 1. I will create a study schedule, reserving time to review and catch-up on the topics I'm falling behind on. I will re-read the guides posted in Khub. 
 2. I will utilize online resources such as Khan Academy and W3 Schools as additional guides. These would be a supplement to the discussions in class.  
 3. When I do not understand a topic, I would consult with my teacher. This will avoid confusion in the long run and help me correct the misconceptions or mistakes I made.
-4. I would practice on hands-on actovities like coding exercises every weekend. This will help me train myself to code a problem statement accurately and efficiently.
+4. I would practice on hands-on activities like coding exercises every weekend. This will help me train myself to code a problem statement accurately and efficiently.
 5. I would ask my classmates who understand the topic well for group study sessions. This would help me grow and learn together with my peers.
 
 ## In the activities that were done in class, list at least two that you think were effective and at least two that you think not effective in helping you understand topics in our course and why?
@@ -31,5 +31,5 @@
 2. I believe that the speed tests done in class are effective as well. It helps trains us to code quickly and accurately which would be very helpful for time constraint assesments such as the long tests. Not only does it give it bonuses to people who finish the fastest, but it engages the class and encourages them to make an effort in coding. 
 
 **Not Effective:**
-1. I believe that some Kahoot games we do in class are not effective. They are very convienient when learning about conceptual topics however there ae certain instances where it lags and time runs out for students to answer. Sometimes students can also just guess the options due to the time pressure. It would be more effective if students were sent  copy of the kahoot games so they can use those to review later on. 
+1. I believe that some Kahoot games we do in class are not effective. They are very convenient when learning about conceptual topics however there ae certain instances where it lags and time runs out for students to answer. Sometimes students can also just guess the options due to the time pressure. It would be more effective if students were sent  copy of the kahoot games so they can use those to review later on. 
 2. The class coding discussions for me are a bit ineffective. Sometimes the discussions would go too fast and I cannot catch up. Since these discussions are after in-class coding exercises, the codes presented on teh screen are not exact or similar with mine. I do know this is because the code presented is an alternative but most of the time it makes me more confused.  
