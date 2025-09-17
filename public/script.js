@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 
 // let age = window.prompt("Enter your age  ", "14");
 // let maxAge = window.prompt("Enter your maxAge  ", "100");
@@ -14,3 +16,4 @@ console.log("You will need " + totalRequired + " snacks to last you until the ri
 else{
     console.log("Run the code again?");
 }
+>>>>>>> b4c568bcd443f7ce84a978c0b7a36fd01eb8d9d4
