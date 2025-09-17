@@ -1,0 +1,52 @@
+<body>
+    <head>
+      <title>Hello! in Different Languages</title>
+  </head>
+  
+  <script>
+  process.stdin.on('data', input => {
+
+    let greeting = input.toString().trim();
+  
+     // use the greeting variable in your code, and start it on the next line
+     switch(greeting) {
+         
+         case 'HELLO':
+             greeting = "ENGLISH";
+             break;
+          case 'MABUHAY':
+             greeting = "TAGALOG";
+             break;
+          case 'HOLA':
+             greeting = "SPANISH";
+             break;  
+          case 'HALLO':
+             greeting = "GERMAN";
+             break;   
+          case 'BONJOUR':
+             greeting = "FRENCH";
+             break;    
+          case 'CIAO':
+             greeting = "ITALIAN";
+             break; 
+          case 'ZDRAVSTUJTE':
+             greeting = "RUSSIAN";
+             break; 
+             
+          default:
+          greeting = "UKNOWN";
+         
+  
+     }
+     
+      console.log(greeting);
+  
+  
+    // end of your code
+    // do not remove the lines below
+  
+    process.exit();
+  
+  });
+</script>
+  
